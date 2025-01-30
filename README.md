@@ -1,16 +1,18 @@
-# bigbox_app
 
-A new Flutter project.
+![banner](https://github.com/user-attachments/assets/a349235a-2378-42f5-b175-13282e760994)
+# *Avalon Kokopelli*
 
-## Getting Started
+An **unnecessarily** complicated solution to announcing the roles etc. in Avalon Kokopelli edition. 
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+![roles](https://github.com/user-attachments/assets/e0b161a8-c0b3-4d1d-a4e9-caa084ec45c2)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Announcing of new roles
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+None
+
+## Contact
+developer@harleyvan.com
